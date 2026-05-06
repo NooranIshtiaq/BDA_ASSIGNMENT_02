@@ -85,7 +85,6 @@ BDA_SEARCH_ENGINE/
 3. **Query Processing** - Parse and process search queries
 4. **Ranking** - Score and rank results by relevance
 5. **Output** - Return sorted, relevant results
-
 ---
 
 ## Contact 
