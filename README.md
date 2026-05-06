@@ -88,16 +88,9 @@ BDA_SEARCH_ENGINE/
 
 ---
 
-## 🤝 Contributing
+## Contact 
 
-Contributions are welcome! Feel free to fork this repository and submit pull requests for any improvements.
-
----
-
-## 📄 License
-
-This project is open source and available under the MIT License.
+For questions or issues, please reach out at: nooranishtiaq@gmail.com
 
 ---
 
-**Last Updated:** May 2026
